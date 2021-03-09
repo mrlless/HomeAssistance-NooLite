@@ -5,5 +5,5 @@
   "dependencies": [],
   "codeowners": ["@SergejPr"],
   "issue_tracker": "https://github.com/SergejPr/HomeAssistance-NooLite/issues",
-  "requirements": []
+  "requirements": [ "NooLite-F==0.1.2" ]
 }
